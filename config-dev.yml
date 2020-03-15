@@ -6,5 +6,5 @@ spring:
   profiles:
     active: dev
 profile: dev
-fenzhi: 111111
-env: 222222
+fenzhi: message
+env: message
