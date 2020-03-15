@@ -6,3 +6,5 @@ spring:
   profiles:
     active: dev
 profile: dev
+fenzhi: dev
+env: demo
